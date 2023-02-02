@@ -4,3 +4,4 @@ examples/**/cypress/screenshots
 examples/**/cypress/downloads
 results.json
 .vscode/
+test
